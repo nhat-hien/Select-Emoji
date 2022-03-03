@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Emoji</string>
+    <string name="wrong">Wrong!!!</string>
+    <string name="find_the_emoji">Find the emoji</string>
+
+    <string name="you_are_so_good">You are so good!!!</string>
+    <string name="failed">Failed!!!</string>
+    <string name="play_again">Play again</string>
+</resources>
